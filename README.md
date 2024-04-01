@@ -1,12 +1,20 @@
-***********************************************************************************************
- Return of the Fallen
- A Techwise project by Chris Tutje, Eric Holman, Adam Ahmetasevic, Amber Miller, and Jaya Sicard
-***********************************************************************************************
+Developed by the "Pixel Plunderers" (2024):
 
-The game launcher can be found in TechwiseRPGProject/Builds/techwiseRPGProject.exe
+Chris Tutje
+Eric Holman
+Jaya Sicard
+Amber Miller
+Marlo Ongkingco
+as part of Cohort 2 of Techwise by Talentsprint, sponsored by Google.
 
-General Scripts can be found at: TechwiseRPGProject/Assets/Scripts
+Tech stack:
 
-Scripts for the Audio can be found at: TechwiseRPGProject/Assets/Audio/Audio Scripts
+HTML/CSS
+MongoDB
+Node.js
+Express.js
+AWS
+Inspired by:
 
-Scripts for the battle system can be found at: TechwiseRPGProject/Assets/Enemies/battleScripts 
+https://eyes.nasa.gov/apps/exo
+https://space.galaxybuster.net/go.php
